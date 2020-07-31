@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MarceloGouveia77/SurveyJS/issues"
   },
-  "homepage": "https://github.com/MarceloGouveia77/SurveyJS#readme"
+  "homepage": "https://github.com/MarceloGouveia77/SurveyJS#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.4.4"
+  }
 }
